@@ -1,14 +1,13 @@
-# roseD PORTFOLIO
+# roseD Personal PORTFOLIO
 This is the roseD personal portfolio repository on GitHub. 
-## Section 1
-
-### Sebsection
-
-### Subsection
-
-## Section 2
-
-### Subsection
-
-### Subsection
+## About
+## Skills
+### Technical
+* Python
+* GitHub
+### Other
+* Public Speaking
+* Written Communication
+## Projects
+My coding projects can be accesses in the [projects folder](projects).
 
